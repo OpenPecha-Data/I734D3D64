@@ -3,1423 +3,1220 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   1433bbb3048d460dbafc460c6723c1b2:
-    page_index: 1a
-    page_info: null
-    reference: I1GS1055810001
+    imgnum: 1
+    reference: I1GS1055810001.tif
     span:
       start: 0
       end: 656
   150fdab3659f47f18f14b31a649ef01e:
-    page_index: 3a
-    page_info: null
-    reference: I1GS1055810005
+    imgnum: 5
+    reference: I1GS1055810005.tif
     span:
       start: 661
       end: 901
   63701e71f77c415f9f05a5cecb39b637:
-    page_index: 3b
-    page_info: null
-    reference: I1GS1055810006
+    imgnum: 6
+    reference: I1GS1055810006.tif
     span:
       start: 906
       end: 1185
   37cebbe9c4cf486ea68321d16967e69d:
-    page_index: 4a
-    page_info: null
-    reference: I1GS1055810007
+    imgnum: 7
+    reference: I1GS1055810007.tif
     span:
       start: 1190
       end: 1861
   bb40e88fa7304ceaa32631b54b594f31:
-    page_index: 4b
-    page_info: null
-    reference: I1GS1055810008
+    imgnum: 8
+    reference: I1GS1055810008.tif
     span:
       start: 1866
       end: 2695
   eea2b8a5c9244a6b863252d31bc90bbc:
-    page_index: 5a
-    page_info: null
-    reference: I1GS1055810009
+    imgnum: 9
+    reference: I1GS1055810009.tif
     span:
       start: 2700
       end: 3494
   dff4121dde61419fa7e3aa54ff77cfa0:
-    page_index: 5b
-    page_info: null
-    reference: I1GS1055810010
+    imgnum: 10
+    reference: I1GS1055810010.tif
     span:
       start: 3499
       end: 4320
   ff111da1565b4789a31f8403c931dcee:
-    page_index: 6a
-    page_info: null
-    reference: I1GS1055810011
+    imgnum: 11
+    reference: I1GS1055810011.tif
     span:
       start: 4325
       end: 5093
   160b8b953d7f4c51be9c0ca34ed0e2ca:
-    page_index: 6b
-    page_info: null
-    reference: I1GS1055810012
+    imgnum: 12
+    reference: I1GS1055810012.tif
     span:
       start: 5098
       end: 5633
   2c142de4b2eb4d25a94770184e47cebc:
-    page_index: 7a
-    page_info: null
-    reference: I1GS1055810013
+    imgnum: 13
+    reference: I1GS1055810013.tif
     span:
       start: 5638
       end: 6206
   dc5fd884d99c4d68afaa2d1d164464df:
-    page_index: 7b
-    page_info: null
-    reference: I1GS1055810014
+    imgnum: 14
+    reference: I1GS1055810014.tif
     span:
       start: 6211
       end: 6979
   b48c24fe1ea94672b24a1338c3d7259b:
-    page_index: 8a
-    page_info: null
-    reference: I1GS1055810015
+    imgnum: 15
+    reference: I1GS1055810015.tif
     span:
       start: 6984
       end: 7134
   7a7846126de448ecbb24453a347e9ea2:
-    page_index: 9a
-    page_info: null
-    reference: I1GS1055810017
+    imgnum: 17
+    reference: I1GS1055810017.tif
     span:
       start: 7139
       end: 7765
   318358ddb8d34ed3bb7fd394d06961d1:
-    page_index: 9b
-    page_info: null
-    reference: I1GS1055810018
+    imgnum: 18
+    reference: I1GS1055810018.tif
     span:
       start: 7770
       end: 8745
   31cd3c1edf25426fb4c79601fc506313:
-    page_index: 10a
-    page_info: null
-    reference: I1GS1055810019
+    imgnum: 19
+    reference: I1GS1055810019.tif
     span:
       start: 8750
       end: 9813
   5246898cf86f47d4ad43fa5f269dbc7f:
-    page_index: 10b
-    page_info: null
-    reference: I1GS1055810020
+    imgnum: 20
+    reference: I1GS1055810020.tif
     span:
       start: 9818
       end: 10875
   9caa6012c6b34397839e5c7646d24b00:
-    page_index: 11a
-    page_info: null
-    reference: I1GS1055810021
+    imgnum: 21
+    reference: I1GS1055810021.tif
     span:
       start: 10880
       end: 11851
   11d4b0ce89b243cfad5dc9dd286df7f3:
-    page_index: 11b
-    page_info: null
-    reference: I1GS1055810022
+    imgnum: 22
+    reference: I1GS1055810022.tif
     span:
       start: 11856
       end: 12901
   1a27d18c499f45d1b710fd96aedd2291:
-    page_index: 12a
-    page_info: null
-    reference: I1GS1055810023
+    imgnum: 23
+    reference: I1GS1055810023.tif
     span:
       start: 12906
       end: 13908
   2320752f4297438b8524ebeeea269dbc:
-    page_index: 12b
-    page_info: null
-    reference: I1GS1055810024
+    imgnum: 24
+    reference: I1GS1055810024.tif
     span:
       start: 13913
       end: 14813
   92749fdda6154c07b41ffb78d9ecace8:
-    page_index: 13a
-    page_info: null
-    reference: I1GS1055810025
+    imgnum: 25
+    reference: I1GS1055810025.tif
     span:
       start: 14818
       end: 15779
   fc87d96852514c969aa85c9c3dd20155:
-    page_index: 13b
-    page_info: null
-    reference: I1GS1055810026
+    imgnum: 26
+    reference: I1GS1055810026.tif
     span:
       start: 15784
       end: 16860
   96527c53b2984279b157134598877654:
-    page_index: 14a
-    page_info: null
-    reference: I1GS1055810027
+    imgnum: 27
+    reference: I1GS1055810027.tif
     span:
       start: 16865
       end: 17884
   48ec82c4d0b2460d913c762ca950a5b3:
-    page_index: 14b
-    page_info: null
-    reference: I1GS1055810028
+    imgnum: 28
+    reference: I1GS1055810028.tif
     span:
       start: 17889
       end: 18978
   84cf97b949d14619962edd1b23c74094:
-    page_index: 15a
-    page_info: null
-    reference: I1GS1055810029
+    imgnum: 29
+    reference: I1GS1055810029.tif
     span:
       start: 18983
       end: 20075
   1fdbc87e51c8451ea79a86f9a34f6f4a:
-    page_index: 15b
-    page_info: null
-    reference: I1GS1055810030
+    imgnum: 30
+    reference: I1GS1055810030.tif
     span:
       start: 20080
       end: 21129
   9b0839c3552f403683b11467d8bc2003:
-    page_index: 16a
-    page_info: null
-    reference: I1GS1055810031
+    imgnum: 31
+    reference: I1GS1055810031.tif
     span:
       start: 21134
       end: 22186
   77ea227bf5c84f08a3e723f9dae56f1c:
-    page_index: 16b
-    page_info: null
-    reference: I1GS1055810032
+    imgnum: 32
+    reference: I1GS1055810032.tif
     span:
       start: 22191
       end: 22751
   172c7783836c4325a31b2c080d555d0e:
-    page_index: 17a
-    page_info: null
-    reference: I1GS1055810033
+    imgnum: 33
+    reference: I1GS1055810033.tif
     span:
       start: 22756
       end: 23675
   c8e70fb3a0a9459fa14b57918441274c:
-    page_index: 17b
-    page_info: null
-    reference: I1GS1055810034
+    imgnum: 34
+    reference: I1GS1055810034.tif
     span:
       start: 23680
       end: 24698
   560ef9b8ac9645cfa0b410435735bee6:
-    page_index: 18a
-    page_info: null
-    reference: I1GS1055810035
+    imgnum: 35
+    reference: I1GS1055810035.tif
     span:
       start: 24703
       end: 25703
   26fd13da13654992a43b4371b4fd8ebd:
-    page_index: 18b
-    page_info: null
-    reference: I1GS1055810036
+    imgnum: 36
+    reference: I1GS1055810036.tif
     span:
       start: 25708
       end: 26765
   5fdfa020926449f2bfbaec1a878922ff:
-    page_index: 19a
-    page_info: null
-    reference: I1GS1055810037
+    imgnum: 37
+    reference: I1GS1055810037.tif
     span:
       start: 26770
       end: 27768
   572256a572824e6fae2cc0200901d5c1:
-    page_index: 19b
-    page_info: null
-    reference: I1GS1055810038
+    imgnum: 38
+    reference: I1GS1055810038.tif
     span:
       start: 27773
       end: 28523
   1a93b512bc6c48fa8b565438c4a88aac:
-    page_index: 20a
-    page_info: null
-    reference: I1GS1055810039
+    imgnum: 39
+    reference: I1GS1055810039.tif
     span:
       start: 28528
       end: 29547
   a04ec09517994a839e4f21ef1d237447:
-    page_index: 20b
-    page_info: null
-    reference: I1GS1055810040
+    imgnum: 40
+    reference: I1GS1055810040.tif
     span:
       start: 29552
       end: 30570
   15e68e13d085412a884c7a5c2f8d649d:
-    page_index: 21a
-    page_info: null
-    reference: I1GS1055810041
+    imgnum: 41
+    reference: I1GS1055810041.tif
     span:
       start: 30575
       end: 31520
   1505f31e2bf14e56ab33ea219399cc47:
-    page_index: 21b
-    page_info: null
-    reference: I1GS1055810042
+    imgnum: 42
+    reference: I1GS1055810042.tif
     span:
       start: 31525
       end: 32432
   8e7deae146884e2b932d58cf96a3c115:
-    page_index: 22a
-    page_info: null
-    reference: I1GS1055810043
+    imgnum: 43
+    reference: I1GS1055810043.tif
     span:
       start: 32437
       end: 33474
   bcc0bbc4c5784913903d5ea1311eba9e:
-    page_index: 22b
-    page_info: null
-    reference: I1GS1055810044
+    imgnum: 44
+    reference: I1GS1055810044.tif
     span:
       start: 33479
       end: 34453
   43724de9c0cb49df8937dc95a048b128:
-    page_index: 23a
-    page_info: null
-    reference: I1GS1055810045
+    imgnum: 45
+    reference: I1GS1055810045.tif
     span:
       start: 34458
       end: 35399
   04425640026446919b5398510b07e61b:
-    page_index: 23b
-    page_info: null
-    reference: I1GS1055810046
+    imgnum: 46
+    reference: I1GS1055810046.tif
     span:
       start: 35404
       end: 36331
   c971e5526f6449c2b9886cca63458bc3:
-    page_index: 24a
-    page_info: null
-    reference: I1GS1055810047
+    imgnum: 47
+    reference: I1GS1055810047.tif
     span:
       start: 36336
       end: 37373
   1e9050fb4e3b4793ae2d9d91f96b02bb:
-    page_index: 24b
-    page_info: null
-    reference: I1GS1055810048
+    imgnum: 48
+    reference: I1GS1055810048.tif
     span:
       start: 37378
       end: 38400
   59b6e5a59b514f438f1b766fdb29a8e3:
-    page_index: 25a
-    page_info: null
-    reference: I1GS1055810049
+    imgnum: 49
+    reference: I1GS1055810049.tif
     span:
       start: 38405
       end: 39453
   e836726eafdb4a6093c8d349c793da0b:
-    page_index: 25b
-    page_info: null
-    reference: I1GS1055810050
+    imgnum: 50
+    reference: I1GS1055810050.tif
     span:
       start: 39458
       end: 40555
   3ad432a245734d0fac2faf9ae66dc859:
-    page_index: 26a
-    page_info: null
-    reference: I1GS1055810051
+    imgnum: 51
+    reference: I1GS1055810051.tif
     span:
       start: 40560
       end: 41647
   4a6d2ac4b8424579b3ad7af5aa15be29:
-    page_index: 26b
-    page_info: null
-    reference: I1GS1055810052
+    imgnum: 52
+    reference: I1GS1055810052.tif
     span:
       start: 41652
       end: 42703
   7f3cd2fdf927417a9bd975b99fa8b49c:
-    page_index: 27a
-    page_info: null
-    reference: I1GS1055810053
+    imgnum: 53
+    reference: I1GS1055810053.tif
     span:
       start: 42708
       end: 43747
   e9c2b20932694a22bea65b51909dc789:
-    page_index: 27b
-    page_info: null
-    reference: I1GS1055810054
+    imgnum: 54
+    reference: I1GS1055810054.tif
     span:
       start: 43752
       end: 44788
   1e8a10e07db34bbb8f24199de7f726ae:
-    page_index: 28a
-    page_info: null
-    reference: I1GS1055810055
+    imgnum: 55
+    reference: I1GS1055810055.tif
     span:
       start: 44793
       end: 45031
   38faa7635c004495b6097bd13a5ce465:
-    page_index: 28b
-    page_info: null
-    reference: I1GS1055810056
+    imgnum: 56
+    reference: I1GS1055810056.tif
     span:
       start: 45036
       end: 45719
   7f10797006c2482cb1b3428d55b97d39:
-    page_index: 29a
-    page_info: null
-    reference: I1GS1055810057
+    imgnum: 57
+    reference: I1GS1055810057.tif
     span:
       start: 45724
       end: 46692
   6c49cf484bb04790af94a33ba534bd5d:
-    page_index: 29b
-    page_info: null
-    reference: I1GS1055810058
+    imgnum: 58
+    reference: I1GS1055810058.tif
     span:
       start: 46697
       end: 47731
   7b562b9d5ad543e2a0afa6bd00dab063:
-    page_index: 30a
-    page_info: null
-    reference: I1GS1055810059
+    imgnum: 59
+    reference: I1GS1055810059.tif
     span:
       start: 47736
       end: 48520
   6c2e84b5e1cb48d8ad0909090cddb01e:
-    page_index: 30b
-    page_info: null
-    reference: I1GS1055810060
+    imgnum: 60
+    reference: I1GS1055810060.tif
     span:
       start: 48525
       end: 49583
   f540c52ee1a14c0a9b3f1e0c868dc9ab:
-    page_index: 31a
-    page_info: null
-    reference: I1GS1055810061
+    imgnum: 61
+    reference: I1GS1055810061.tif
     span:
       start: 49588
       end: 50492
   c9c44cf51ccb4408a1020b89cd7b3606:
-    page_index: 31b
-    page_info: null
-    reference: I1GS1055810062
+    imgnum: 62
+    reference: I1GS1055810062.tif
     span:
       start: 50497
       end: 51505
   71997c1d3cd246e082c6cf33c9e792ec:
-    page_index: 32a
-    page_info: null
-    reference: I1GS1055810063
+    imgnum: 63
+    reference: I1GS1055810063.tif
     span:
       start: 51510
       end: 52203
   86e8259863d44511a51417059f3e51ae:
-    page_index: 32b
-    page_info: null
-    reference: I1GS1055810064
+    imgnum: 64
+    reference: I1GS1055810064.tif
     span:
       start: 52208
       end: 53046
   7dc35603a80f44b4aaa5fc9a287ed327:
-    page_index: 33a
-    page_info: null
-    reference: I1GS1055810065
+    imgnum: 65
+    reference: I1GS1055810065.tif
     span:
       start: 53051
       end: 54014
   9522c7c9f55f4e18a89346b4b3323ad2:
-    page_index: 33b
-    page_info: null
-    reference: I1GS1055810066
+    imgnum: 66
+    reference: I1GS1055810066.tif
     span:
       start: 54019
       end: 55010
   88768f452b624b5a8ceea5fea9ab1a5f:
-    page_index: 34a
-    page_info: null
-    reference: I1GS1055810067
+    imgnum: 67
+    reference: I1GS1055810067.tif
     span:
       start: 55015
       end: 56071
   e51e92389e5d4b69b23d2524887e8db5:
-    page_index: 34b
-    page_info: null
-    reference: I1GS1055810068
+    imgnum: 68
+    reference: I1GS1055810068.tif
     span:
       start: 56076
       end: 57014
   38c04d593f8e41f7b9eb7cc76d950065:
-    page_index: 35a
-    page_info: null
-    reference: I1GS1055810069
+    imgnum: 69
+    reference: I1GS1055810069.tif
     span:
       start: 57019
       end: 58019
   759a594beef9416692ce5675fd517d92:
-    page_index: 35b
-    page_info: null
-    reference: I1GS1055810070
+    imgnum: 70
+    reference: I1GS1055810070.tif
     span:
       start: 58024
       end: 59086
   43527bd378844a12a98ef00017873486:
-    page_index: 36a
-    page_info: null
-    reference: I1GS1055810071
+    imgnum: 71
+    reference: I1GS1055810071.tif
     span:
       start: 59091
       end: 60030
   92886817fd7a424eafb3c9414e41a0b6:
-    page_index: 36b
-    page_info: null
-    reference: I1GS1055810072
+    imgnum: 72
+    reference: I1GS1055810072.tif
     span:
       start: 60035
       end: 61042
   89abc784f89d432b99e4db52dfc4e9e2:
-    page_index: 37a
-    page_info: null
-    reference: I1GS1055810073
+    imgnum: 73
+    reference: I1GS1055810073.tif
     span:
       start: 61047
       end: 62044
   ee5d73400d7a4da4bdcea7657a962e37:
-    page_index: 37b
-    page_info: null
-    reference: I1GS1055810074
+    imgnum: 74
+    reference: I1GS1055810074.tif
     span:
       start: 62049
       end: 63104
   a277a68c4ee742eeb26d9fde85c36c93:
-    page_index: 38a
-    page_info: null
-    reference: I1GS1055810075
+    imgnum: 75
+    reference: I1GS1055810075.tif
     span:
       start: 63109
       end: 64096
   eb84b3343aad495ea9e1bff3accaa4f9:
-    page_index: 38b
-    page_info: null
-    reference: I1GS1055810076
+    imgnum: 76
+    reference: I1GS1055810076.tif
     span:
       start: 64101
       end: 64985
   af4651655f934aa79362203aab796569:
-    page_index: 39a
-    page_info: null
-    reference: I1GS1055810077
+    imgnum: 77
+    reference: I1GS1055810077.tif
     span:
       start: 64990
       end: 65839
   306be728ef0e41568b3d1096760efa23:
-    page_index: 39b
-    page_info: null
-    reference: I1GS1055810078
+    imgnum: 78
+    reference: I1GS1055810078.tif
     span:
       start: 65844
       end: 66777
   1fe7ba511fad42ff9c271023078eb58e:
-    page_index: 40a
-    page_info: null
-    reference: I1GS1055810079
+    imgnum: 79
+    reference: I1GS1055810079.tif
     span:
       start: 66782
       end: 67798
   9d0d440b7cf2480f842b401c62573124:
-    page_index: 40b
-    page_info: null
-    reference: I1GS1055810080
+    imgnum: 80
+    reference: I1GS1055810080.tif
     span:
       start: 67803
       end: 68867
   a9af28267f1a4a5b817e074ceaf05035:
-    page_index: 41a
-    page_info: null
-    reference: I1GS1055810081
+    imgnum: 81
+    reference: I1GS1055810081.tif
     span:
       start: 68872
       end: 69929
   fd0978eaa38742c0ac352de46c818c37:
-    page_index: 41b
-    page_info: null
-    reference: I1GS1055810082
+    imgnum: 82
+    reference: I1GS1055810082.tif
     span:
       start: 69934
       end: 70938
   e112cdba89ab47f4abe7418e43636871:
-    page_index: 42a
-    page_info: null
-    reference: I1GS1055810083
+    imgnum: 83
+    reference: I1GS1055810083.tif
     span:
       start: 70943
       end: 71965
   66669adc54ca4143aca7dfe557ef0f03:
-    page_index: 42b
-    page_info: null
-    reference: I1GS1055810084
+    imgnum: 84
+    reference: I1GS1055810084.tif
     span:
       start: 71970
       end: 72807
   80ea9b9ba8064179b3a74355c709001f:
-    page_index: 43a
-    page_info: null
-    reference: I1GS1055810085
+    imgnum: 85
+    reference: I1GS1055810085.tif
     span:
       start: 72812
       end: 73787
   351ef3d83ad8418ea80b9ff3b2e0e455:
-    page_index: 43b
-    page_info: null
-    reference: I1GS1055810086
+    imgnum: 86
+    reference: I1GS1055810086.tif
     span:
       start: 73792
       end: 74851
   c846ac7ef2b84a95998afefffeb1fe44:
-    page_index: 44a
-    page_info: null
-    reference: I1GS1055810087
+    imgnum: 87
+    reference: I1GS1055810087.tif
     span:
       start: 74856
       end: 75695
   f16abba2c3be47eba80a27f7818752e6:
-    page_index: 44b
-    page_info: null
-    reference: I1GS1055810088
+    imgnum: 88
+    reference: I1GS1055810088.tif
     span:
       start: 75700
       end: 75880
   86a193b61bb74b788ac700130214b0bd:
-    page_index: 45a
-    page_info: null
-    reference: I1GS1055810089
+    imgnum: 89
+    reference: I1GS1055810089.tif
     span:
       start: 75885
       end: 76435
   212d9c8a950b498cb196d15e8d734472:
-    page_index: 45b
-    page_info: null
-    reference: I1GS1055810090
+    imgnum: 90
+    reference: I1GS1055810090.tif
     span:
       start: 76440
       end: 77489
   869cbb8887ea49098cced66bac622d88:
-    page_index: 46a
-    page_info: null
-    reference: I1GS1055810091
+    imgnum: 91
+    reference: I1GS1055810091.tif
     span:
       start: 77494
       end: 78459
   87f652be6a9748bf917a0fa044e89e10:
-    page_index: 46b
-    page_info: null
-    reference: I1GS1055810092
+    imgnum: 92
+    reference: I1GS1055810092.tif
     span:
       start: 78464
       end: 79498
   111b6c6895a0459e971a6da19746a87a:
-    page_index: 47a
-    page_info: null
-    reference: I1GS1055810093
+    imgnum: 93
+    reference: I1GS1055810093.tif
     span:
       start: 79503
       end: 80519
   b2f942db275b46378e696bad4a2d861f:
-    page_index: 47b
-    page_info: null
-    reference: I1GS1055810094
+    imgnum: 94
+    reference: I1GS1055810094.tif
     span:
       start: 80524
       end: 81536
   2c62bf896e874f3596160a661eeb5b4f:
-    page_index: 48a
-    page_info: null
-    reference: I1GS1055810095
+    imgnum: 95
+    reference: I1GS1055810095.tif
     span:
       start: 81541
       end: 82518
   30aada00a275455ca6942206d48cb2fb:
-    page_index: 48b
-    page_info: null
-    reference: I1GS1055810096
+    imgnum: 96
+    reference: I1GS1055810096.tif
     span:
       start: 82523
       end: 83520
   3ea3d36b9c2e4d79a0dba15f097c94c7:
-    page_index: 49a
-    page_info: null
-    reference: I1GS1055810097
+    imgnum: 97
+    reference: I1GS1055810097.tif
     span:
       start: 83525
       end: 84542
   a45c29cea78848a89185cd146bf0ced8:
-    page_index: 49b
-    page_info: null
-    reference: I1GS1055810098
+    imgnum: 98
+    reference: I1GS1055810098.tif
     span:
       start: 84547
       end: 84891
   03ebadad1f764c608953312070ae8697:
-    page_index: 50a
-    page_info: null
-    reference: I1GS1055810099
+    imgnum: 99
+    reference: I1GS1055810099.tif
     span:
       start: 84896
       end: 85733
   89df44bf45704bb795ac465ead9be66d:
-    page_index: 50b
-    page_info: null
-    reference: I1GS1055810100
+    imgnum: 100
+    reference: I1GS1055810100.tif
     span:
       start: 85738
       end: 86744
   49f76b90ff334d61b906d9bdd0cbb1bf:
-    page_index: 51a
-    page_info: null
-    reference: I1GS1055810101
+    imgnum: 101
+    reference: I1GS1055810101.tif
     span:
       start: 86749
       end: 87469
   fca10d091cb4429ba5dcd96ffdd853c6:
-    page_index: 51b
-    page_info: null
-    reference: I1GS1055810102
+    imgnum: 102
+    reference: I1GS1055810102.tif
     span:
       start: 87474
       end: 88375
   3e96328128e546f7aad1ee0559256f62:
-    page_index: 52a
-    page_info: null
-    reference: I1GS1055810103
+    imgnum: 103
+    reference: I1GS1055810103.tif
     span:
       start: 88380
       end: 89394
   ba74b0f370f145388d0f8bd139027436:
-    page_index: 52b
-    page_info: null
-    reference: I1GS1055810104
+    imgnum: 104
+    reference: I1GS1055810104.tif
     span:
       start: 89399
       end: 90438
   7786165648d5483da60df7e028269e37:
-    page_index: 53a
-    page_info: null
-    reference: I1GS1055810105
+    imgnum: 105
+    reference: I1GS1055810105.tif
     span:
       start: 90443
       end: 91483
   199dc8ea7470449ca4f5cc7a62bdf0fa:
-    page_index: 53b
-    page_info: null
-    reference: I1GS1055810106
+    imgnum: 106
+    reference: I1GS1055810106.tif
     span:
       start: 91488
       end: 92496
   23144e4ebe7347b38d350d31052142d7:
-    page_index: 54a
-    page_info: null
-    reference: I1GS1055810107
+    imgnum: 107
+    reference: I1GS1055810107.tif
     span:
       start: 92501
       end: 93506
   cf5fca4f2489448a930ae80ca14bd590:
-    page_index: 54b
-    page_info: null
-    reference: I1GS1055810108
+    imgnum: 108
+    reference: I1GS1055810108.tif
     span:
       start: 93511
       end: 94302
   7ae32557c5d24f9fb548e16710625d79:
-    page_index: 55a
-    page_info: null
-    reference: I1GS1055810109
+    imgnum: 109
+    reference: I1GS1055810109.tif
     span:
       start: 94307
       end: 95015
   c0bc111bdcb1487b98c3af6456f59bef:
-    page_index: 55b
-    page_info: null
-    reference: I1GS1055810110
+    imgnum: 110
+    reference: I1GS1055810110.tif
     span:
       start: 95020
       end: 96002
   528fdde5cd9248cb88cfed65b1ee56ab:
-    page_index: 56a
-    page_info: null
-    reference: I1GS1055810111
+    imgnum: 111
+    reference: I1GS1055810111.tif
     span:
       start: 96007
       end: 97031
   ed78484f270c45a89b339c65336b5483:
-    page_index: 56b
-    page_info: null
-    reference: I1GS1055810112
+    imgnum: 112
+    reference: I1GS1055810112.tif
     span:
       start: 97036
       end: 97870
   f1b284b9365e41418f1a79dfb864ffd2:
-    page_index: 57a
-    page_info: null
-    reference: I1GS1055810113
+    imgnum: 113
+    reference: I1GS1055810113.tif
     span:
       start: 97875
       end: 98958
   fc5650e886814e7d9373a4e87b5ba671:
-    page_index: 57b
-    page_info: null
-    reference: I1GS1055810114
+    imgnum: 114
+    reference: I1GS1055810114.tif
     span:
       start: 98963
       end: 99983
   905317ded19540da93129e9ef09ec382:
-    page_index: 58a
-    page_info: null
-    reference: I1GS1055810115
+    imgnum: 115
+    reference: I1GS1055810115.tif
     span:
       start: 99988
       end: 101025
   00ed2a85a0c440eebd0e735ad256f6bc:
-    page_index: 58b
-    page_info: null
-    reference: I1GS1055810116
+    imgnum: 116
+    reference: I1GS1055810116.tif
     span:
       start: 101030
       end: 101178
   f1e683f9e5154632b8cdf426d66cb7c9:
-    page_index: 59a
-    page_info: null
-    reference: I1GS1055810117
+    imgnum: 117
+    reference: I1GS1055810117.tif
     span:
       start: 101183
       end: 101985
   b4072611c70249f5b7cbf20fe24ef61f:
-    page_index: 59b
-    page_info: null
-    reference: I1GS1055810118
+    imgnum: 118
+    reference: I1GS1055810118.tif
     span:
       start: 101990
       end: 103072
   86607983184443c88883feb791d7e54a:
-    page_index: 60a
-    page_info: null
-    reference: I1GS1055810119
+    imgnum: 119
+    reference: I1GS1055810119.tif
     span:
       start: 103077
       end: 104105
   063659d03abd4f33b1d6d3f641b95b46:
-    page_index: 60b
-    page_info: null
-    reference: I1GS1055810120
+    imgnum: 120
+    reference: I1GS1055810120.tif
     span:
       start: 104110
       end: 105204
   3ce5fe95f70f44bf85b9323c569366d3:
-    page_index: 61a
-    page_info: null
-    reference: I1GS1055810121
+    imgnum: 121
+    reference: I1GS1055810121.tif
     span:
       start: 105209
       end: 106367
   c14dca89f3bd4f0c92bddcab4b52c73f:
-    page_index: 61b
-    page_info: null
-    reference: I1GS1055810122
+    imgnum: 122
+    reference: I1GS1055810122.tif
     span:
       start: 106372
       end: 107412
   515014ebd59144ea827e6d98b4276831:
-    page_index: 62a
-    page_info: null
-    reference: I1GS1055810123
+    imgnum: 123
+    reference: I1GS1055810123.tif
     span:
       start: 107417
       end: 108433
   1aacc2aacd104adebce3ae685aa7e013:
-    page_index: 62b
-    page_info: null
-    reference: I1GS1055810124
+    imgnum: 124
+    reference: I1GS1055810124.tif
     span:
       start: 108438
       end: 109495
   eac89df34e5b4256ac3d513474e55667:
-    page_index: 63a
-    page_info: null
-    reference: I1GS1055810125
+    imgnum: 125
+    reference: I1GS1055810125.tif
     span:
       start: 109500
       end: 110533
   4149ed8581df454cb760578d55f09573:
-    page_index: 63b
-    page_info: null
-    reference: I1GS1055810126
+    imgnum: 126
+    reference: I1GS1055810126.tif
     span:
       start: 110538
       end: 110681
   49ad1967e6734bd4b2685cd8420695bf:
-    page_index: 64a
-    page_info: null
-    reference: I1GS1055810127
+    imgnum: 127
+    reference: I1GS1055810127.tif
     span:
       start: 110686
       end: 111449
   ef444c3849c944f8b2708844b03c6403:
-    page_index: 64b
-    page_info: null
-    reference: I1GS1055810128
+    imgnum: 128
+    reference: I1GS1055810128.tif
     span:
       start: 111454
       end: 112537
   eedf193f52714fcdab45b2f08922774f:
-    page_index: 65a
-    page_info: null
-    reference: I1GS1055810129
+    imgnum: 129
+    reference: I1GS1055810129.tif
     span:
       start: 112542
       end: 113655
   8a6fac09785a40cba10b813991a834eb:
-    page_index: 65b
-    page_info: null
-    reference: I1GS1055810130
+    imgnum: 130
+    reference: I1GS1055810130.tif
     span:
       start: 113660
       end: 114714
   fdb57f0f0bd046faadf0176199f42c4b:
-    page_index: 66a
-    page_info: null
-    reference: I1GS1055810131
+    imgnum: 131
+    reference: I1GS1055810131.tif
     span:
       start: 114719
       end: 115706
   42943ae12b9a4c6999cb84cd58af5b5e:
-    page_index: 66b
-    page_info: null
-    reference: I1GS1055810132
+    imgnum: 132
+    reference: I1GS1055810132.tif
     span:
       start: 115711
       end: 116731
   7d9d70145b974085b7e9188ec8f9c196:
-    page_index: 67a
-    page_info: null
-    reference: I1GS1055810133
+    imgnum: 133
+    reference: I1GS1055810133.tif
     span:
       start: 116736
       end: 117789
   ae808a9d1d61451aa3d90898bbf6c785:
-    page_index: 67b
-    page_info: null
-    reference: I1GS1055810134
+    imgnum: 134
+    reference: I1GS1055810134.tif
     span:
       start: 117794
       end: 118834
   792a221a5d9244169e04f113e2397b9e:
-    page_index: 68a
-    page_info: null
-    reference: I1GS1055810135
+    imgnum: 135
+    reference: I1GS1055810135.tif
     span:
       start: 118839
       end: 119732
   84ed601809cd442f96a1ad4db4ed302f:
-    page_index: 68b
-    page_info: null
-    reference: I1GS1055810136
+    imgnum: 136
+    reference: I1GS1055810136.tif
     span:
       start: 119737
       end: 120715
   1180f860d18a4d2ba696a50df2b33ada:
-    page_index: 69a
-    page_info: null
-    reference: I1GS1055810137
+    imgnum: 137
+    reference: I1GS1055810137.tif
     span:
       start: 120720
       end: 121153
   88e0a7a9dbce48d69ad3cdc0238a1733:
-    page_index: 69b
-    page_info: null
-    reference: I1GS1055810138
+    imgnum: 138
+    reference: I1GS1055810138.tif
     span:
       start: 121158
       end: 122136
   8713d7f073ec4feb98d090221f36fd40:
-    page_index: 70a
-    page_info: null
-    reference: I1GS1055810139
+    imgnum: 139
+    reference: I1GS1055810139.tif
     span:
       start: 122141
       end: 122468
   8ac73aaa6ab0408ea7d37d0946b42934:
-    page_index: 70b
-    page_info: null
-    reference: I1GS1055810140
+    imgnum: 140
+    reference: I1GS1055810140.tif
     span:
       start: 122473
       end: 123245
   63ac43456c5643d5a16c04ddbfc8e148:
-    page_index: 71a
-    page_info: null
-    reference: I1GS1055810141
+    imgnum: 141
+    reference: I1GS1055810141.tif
     span:
       start: 123250
       end: 124267
   c08ad6a87780489db4efab26719befc1:
-    page_index: 71b
-    page_info: null
-    reference: I1GS1055810142
+    imgnum: 142
+    reference: I1GS1055810142.tif
     span:
       start: 124272
       end: 125284
   7791f842a2044e2f87430ac9027bc2a1:
-    page_index: 72a
-    page_info: null
-    reference: I1GS1055810143
+    imgnum: 143
+    reference: I1GS1055810143.tif
     span:
       start: 125289
       end: 126351
   7bce96955f014345820f2aab17917220:
-    page_index: 72b
-    page_info: null
-    reference: I1GS1055810144
+    imgnum: 144
+    reference: I1GS1055810144.tif
     span:
       start: 126356
       end: 127462
   eab1bbd98c184c27816f18e1b8e02499:
-    page_index: 73a
-    page_info: null
-    reference: I1GS1055810145
+    imgnum: 145
+    reference: I1GS1055810145.tif
     span:
       start: 127467
       end: 128539
   2a2d3cdc2a374a4cbef338cc0fa6259d:
-    page_index: 73b
-    page_info: null
-    reference: I1GS1055810146
+    imgnum: 146
+    reference: I1GS1055810146.tif
     span:
       start: 128544
       end: 129580
   d8180b9ef25c4c929b4ba2c5d1424c7c:
-    page_index: 74a
-    page_info: null
-    reference: I1GS1055810147
+    imgnum: 147
+    reference: I1GS1055810147.tif
     span:
       start: 129585
       end: 130564
   7e3e511a64dd47809419b500941bc427:
-    page_index: 74b
-    page_info: null
-    reference: I1GS1055810148
+    imgnum: 148
+    reference: I1GS1055810148.tif
     span:
       start: 130569
       end: 131593
   4b64963ed8dd42a09bfd43060877d374:
-    page_index: 75a
-    page_info: null
-    reference: I1GS1055810149
+    imgnum: 149
+    reference: I1GS1055810149.tif
     span:
       start: 131598
       end: 132377
   db85baf836374d359efffadac2cc9cc1:
-    page_index: 75b
-    page_info: null
-    reference: I1GS1055810150
+    imgnum: 150
+    reference: I1GS1055810150.tif
     span:
       start: 132382
       end: 133421
   848f17ffdf8e46c7a98c4ff9c5ae4eaf:
-    page_index: 76a
-    page_info: null
-    reference: I1GS1055810151
+    imgnum: 151
+    reference: I1GS1055810151.tif
     span:
       start: 133426
       end: 134338
   ba571673984248ab8efcdd64fc09b441:
-    page_index: 77a
-    page_info: null
-    reference: I1GS1055810153
+    imgnum: 153
+    reference: I1GS1055810153.tif
     span:
       start: 134343
       end: 134361
   87fb34ffa6004cc1a84055d5d81bf982:
-    page_index: 78a
-    page_info: null
-    reference: I1GS1055810155
+    imgnum: 155
+    reference: I1GS1055810155.tif
     span:
       start: 134366
       end: 134829
   2c9228153cb54f03b3e1b39f5d2f5db9:
-    page_index: 78b
-    page_info: null
-    reference: I1GS1055810156
+    imgnum: 156
+    reference: I1GS1055810156.tif
     span:
       start: 134834
       end: 135345
   0b78424561204e42b5c38706dac50b1d:
-    page_index: 79a
-    page_info: null
-    reference: I1GS1055810157
+    imgnum: 157
+    reference: I1GS1055810157.tif
     span:
       start: 135350
       end: 135624
   489c4f118b4f444fb3154180af628101:
-    page_index: 80a
-    page_info: null
-    reference: I1GS1055810159
+    imgnum: 159
+    reference: I1GS1055810159.tif
     span:
       start: 135629
       end: 136117
   c5a450cea17e430a8832f249c1342fbd:
-    page_index: 80b
-    page_info: null
-    reference: I1GS1055810160
+    imgnum: 160
+    reference: I1GS1055810160.tif
     span:
       start: 136122
       end: 136783
   362c853606944e538cbef9e3f466128e:
-    page_index: 81a
-    page_info: null
-    reference: I1GS1055810161
+    imgnum: 161
+    reference: I1GS1055810161.tif
     span:
       start: 136788
       end: 137418
   7a23ba7edb7c4d8a9629946089158b1a:
-    page_index: 81b
-    page_info: null
-    reference: I1GS1055810162
+    imgnum: 162
+    reference: I1GS1055810162.tif
     span:
       start: 137423
       end: 137956
   b6384c3e48754c2fa270718f9087dc0f:
-    page_index: 82a
-    page_info: null
-    reference: I1GS1055810163
+    imgnum: 163
+    reference: I1GS1055810163.tif
     span:
       start: 137961
       end: 138657
   ceb12b6490c34e0696c7acd749251c1e:
-    page_index: 82b
-    page_info: null
-    reference: I1GS1055810164
+    imgnum: 164
+    reference: I1GS1055810164.tif
     span:
       start: 138662
       end: 139216
   1b24258e3d094d33bd549ba34b76dd8a:
-    page_index: 83a
-    page_info: null
-    reference: I1GS1055810165
+    imgnum: 165
+    reference: I1GS1055810165.tif
     span:
       start: 139221
       end: 139913
   4e71903e7f3544b298d9c4a1ec229bd0:
-    page_index: 83b
-    page_info: null
-    reference: I1GS1055810166
+    imgnum: 166
+    reference: I1GS1055810166.tif
     span:
       start: 139918
       end: 140444
   692f0249ce7745569c1fa5d5ff5a0ffb:
-    page_index: 84a
-    page_info: null
-    reference: I1GS1055810167
+    imgnum: 167
+    reference: I1GS1055810167.tif
     span:
       start: 140449
       end: 141051
   abd4c0ca39d94def9e7ff157b9a0d6e2:
-    page_index: 84b
-    page_info: null
-    reference: I1GS1055810168
+    imgnum: 168
+    reference: I1GS1055810168.tif
     span:
       start: 141056
       end: 141680
   c71abe2bb9de4f7f8bf2961bcced9690:
-    page_index: 85a
-    page_info: null
-    reference: I1GS1055810169
+    imgnum: 169
+    reference: I1GS1055810169.tif
     span:
       start: 141685
       end: 142250
   107e3360e4824aa2b25dbac979c5ddba:
-    page_index: 85b
-    page_info: null
-    reference: I1GS1055810170
+    imgnum: 170
+    reference: I1GS1055810170.tif
     span:
       start: 142255
       end: 142930
   7b3bab0d1b2f4947a4e2acaf98a5977f:
-    page_index: 86a
-    page_info: null
-    reference: I1GS1055810171
+    imgnum: 171
+    reference: I1GS1055810171.tif
     span:
       start: 142935
       end: 143601
   b4706d0cb3db4253bfa854de33879511:
-    page_index: 86b
-    page_info: null
-    reference: I1GS1055810172
+    imgnum: 172
+    reference: I1GS1055810172.tif
     span:
       start: 143606
       end: 144276
   4c2c06d3fe0540498c04c8cbbe27cae1:
-    page_index: 87a
-    page_info: null
-    reference: I1GS1055810173
+    imgnum: 173
+    reference: I1GS1055810173.tif
     span:
       start: 144281
       end: 144365
   8ecb1f255fad4a4081267667008101b3:
-    page_index: 87b
-    page_info: null
-    reference: I1GS1055810174
+    imgnum: 174
+    reference: I1GS1055810174.tif
     span:
       start: 144370
       end: 144840
   907db9301e0d45389abf4605e7dd8e62:
-    page_index: 88a
-    page_info: null
-    reference: I1GS1055810175
+    imgnum: 175
+    reference: I1GS1055810175.tif
     span:
       start: 144845
       end: 145383
   fd26f88fad7849d3b3d7dae9b55ce48d:
-    page_index: 88b
-    page_info: null
-    reference: I1GS1055810176
+    imgnum: 176
+    reference: I1GS1055810176.tif
     span:
       start: 145388
       end: 146030
   40806b8eca254d7092ea08bed12c5928:
-    page_index: 89a
-    page_info: null
-    reference: I1GS1055810177
+    imgnum: 177
+    reference: I1GS1055810177.tif
     span:
       start: 146035
       end: 146573
   e5afd819fcbe4c44a954786a2224789b:
-    page_index: 89b
-    page_info: null
-    reference: I1GS1055810178
+    imgnum: 178
+    reference: I1GS1055810178.tif
     span:
       start: 146578
       end: 147211
   0ae8de2ddab84a56a11907fc4e16c8d9:
-    page_index: 90a
-    page_info: null
-    reference: I1GS1055810179
+    imgnum: 179
+    reference: I1GS1055810179.tif
     span:
       start: 147216
       end: 147893
   27416fad4825416f97b9e138d63f7557:
-    page_index: 90b
-    page_info: null
-    reference: I1GS1055810180
+    imgnum: 180
+    reference: I1GS1055810180.tif
     span:
       start: 147898
       end: 148577
   ea8d69fcbf624984801d3471e175489e:
-    page_index: 91a
-    page_info: null
-    reference: I1GS1055810181
+    imgnum: 181
+    reference: I1GS1055810181.tif
     span:
       start: 148582
       end: 149259
   6c9a865f74d240fc853aeb62f5f5133e:
-    page_index: 91b
-    page_info: null
-    reference: I1GS1055810182
+    imgnum: 182
+    reference: I1GS1055810182.tif
     span:
       start: 149264
       end: 149826
   8f6f4eba8d3f4fe6a4dba7f92dcf94d0:
-    page_index: 92a
-    page_info: null
-    reference: I1GS1055810183
+    imgnum: 183
+    reference: I1GS1055810183.tif
     span:
       start: 149831
       end: 150509
   4fd042a724df40f296698ee703974456:
-    page_index: 92b
-    page_info: null
-    reference: I1GS1055810184
+    imgnum: 184
+    reference: I1GS1055810184.tif
     span:
       start: 150514
       end: 151179
   fb49283ffe3b4de79d3996a5212d8ae1:
-    page_index: 93a
-    page_info: null
-    reference: I1GS1055810185
+    imgnum: 185
+    reference: I1GS1055810185.tif
     span:
       start: 151184
       end: 151767
   956a2771f3d24c1ba435e18fdced0253:
-    page_index: 93b
-    page_info: null
-    reference: I1GS1055810186
+    imgnum: 186
+    reference: I1GS1055810186.tif
     span:
       start: 151772
       end: 152085
   55d35788f84149a7bbe12abf0f2c2f7a:
-    page_index: 94a
-    page_info: null
-    reference: I1GS1055810187
+    imgnum: 187
+    reference: I1GS1055810187.tif
     span:
       start: 152090
       end: 152744
   9bd2870ccfca41cda53ca5a4e92f776b:
-    page_index: 94b
-    page_info: null
-    reference: I1GS1055810188
+    imgnum: 188
+    reference: I1GS1055810188.tif
     span:
       start: 152749
       end: 153415
   21da03f6b2ae4ec2ab9663ad0e84d2c3:
-    page_index: 95a
-    page_info: null
-    reference: I1GS1055810189
+    imgnum: 189
+    reference: I1GS1055810189.tif
     span:
       start: 153420
       end: 154113
   e160121ed59b4421bc0d4e2e05dc25bc:
-    page_index: 95b
-    page_info: null
-    reference: I1GS1055810190
+    imgnum: 190
+    reference: I1GS1055810190.tif
     span:
       start: 154118
       end: 154676
   a0d5f7f677c742ce8def514fcecae2be:
-    page_index: 96a
-    page_info: null
-    reference: I1GS1055810191
+    imgnum: 191
+    reference: I1GS1055810191.tif
     span:
       start: 154681
       end: 155108
   04039997567c4e6e9a9b123fad6240c4:
-    page_index: 96b
-    page_info: null
-    reference: I1GS1055810192
+    imgnum: 192
+    reference: I1GS1055810192.tif
     span:
       start: 155113
       end: 155783
   d4fb1959c8904e9986a0b8444dd5e9bd:
-    page_index: 97a
-    page_info: null
-    reference: I1GS1055810193
+    imgnum: 193
+    reference: I1GS1055810193.tif
     span:
       start: 155788
       end: 156463
   ed737677640049ee919ec6c497dd0598:
-    page_index: 97b
-    page_info: null
-    reference: I1GS1055810194
+    imgnum: 194
+    reference: I1GS1055810194.tif
     span:
       start: 156468
       end: 157028
   82a2b5da334b424282b6750ff06c19ed:
-    page_index: 98a
-    page_info: null
-    reference: I1GS1055810195
+    imgnum: 195
+    reference: I1GS1055810195.tif
     span:
       start: 157033
       end: 157551
   0042ec76e33e4e6c9b26848bf4bef485:
-    page_index: 98b
-    page_info: null
-    reference: I1GS1055810196
+    imgnum: 196
+    reference: I1GS1055810196.tif
     span:
       start: 157556
       end: 158175
   d718f50ebb3847cd86e70a10b414c252:
-    page_index: 99a
-    page_info: null
-    reference: I1GS1055810197
+    imgnum: 197
+    reference: I1GS1055810197.tif
     span:
       start: 158180
       end: 158748
   e297e80dcdf34fa2bfb1d5adbe6c3d07:
-    page_index: 99b
-    page_info: null
-    reference: I1GS1055810198
+    imgnum: 198
+    reference: I1GS1055810198.tif
     span:
       start: 158753
       end: 159436
   936833bca2364c66a426b509b07889b0:
-    page_index: 100a
-    page_info: null
-    reference: I1GS1055810199
+    imgnum: 199
+    reference: I1GS1055810199.tif
     span:
       start: 159441
       end: 160107
   6dbac29c65b1406497548575affe7f8c:
-    page_index: 100b
-    page_info: null
-    reference: I1GS1055810200
+    imgnum: 200
+    reference: I1GS1055810200.tif
     span:
       start: 160112
       end: 160623
   34df01aa011e444da1953c967194ce76:
-    page_index: 101a
-    page_info: null
-    reference: I1GS1055810201
+    imgnum: 201
+    reference: I1GS1055810201.tif
     span:
       start: 160628
       end: 161289
   e722966f8b4d4994a31439a0d8f8e43e:
-    page_index: 101b
-    page_info: null
-    reference: I1GS1055810202
+    imgnum: 202
+    reference: I1GS1055810202.tif
     span:
       start: 161294
       end: 161911
   2f4b7cd9e81a435c8e9e842b5461adc7:
-    page_index: 102a
-    page_info: null
-    reference: I1GS1055810203
+    imgnum: 203
+    reference: I1GS1055810203.tif
     span:
       start: 161916
       end: 162523
   17aa12ed00644c31b4587251aaef70a8:
-    page_index: 102b
-    page_info: null
-    reference: I1GS1055810204
+    imgnum: 204
+    reference: I1GS1055810204.tif
     span:
       start: 162528
       end: 162885
   619b947187f343339e59bc7995c170aa:
-    page_index: 103a
-    page_info: null
-    reference: I1GS1055810205
+    imgnum: 205
+    reference: I1GS1055810205.tif
     span:
       start: 162890
       end: 163456
   1119518dcc024ceabcde1bb7272a9ae4:
-    page_index: 103b
-    page_info: null
-    reference: I1GS1055810206
+    imgnum: 206
+    reference: I1GS1055810206.tif
     span:
       start: 163461
       end: 164104
   a80550ce7a0f4bacb0501e40edbe8d4a:
-    page_index: 104a
-    page_info: null
-    reference: I1GS1055810207
+    imgnum: 207
+    reference: I1GS1055810207.tif
     span:
       start: 164109
       end: 164805
   3a89f7cacb0c4d1d92249f0e58028718:
-    page_index: 104b
-    page_info: null
-    reference: I1GS1055810208
+    imgnum: 208
+    reference: I1GS1055810208.tif
     span:
       start: 164810
       end: 165408
   729d9dad18ed46c7ac6d5aeb9f2e1b95:
-    page_index: 105a
-    page_info: null
-    reference: I1GS1055810209
+    imgnum: 209
+    reference: I1GS1055810209.tif
     span:
       start: 165413
       end: 165932
   f555dae49c0142ae84e6fea26c9b64b1:
-    page_index: 105b
-    page_info: null
-    reference: I1GS1055810210
+    imgnum: 210
+    reference: I1GS1055810210.tif
     span:
       start: 165937
       end: 166086
